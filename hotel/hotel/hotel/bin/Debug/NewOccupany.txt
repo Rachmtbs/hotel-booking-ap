@@ -1,0 +1,4 @@
+P0oo,p0ooo,Yes,Void
+p0909,9pl9l,No,Yes
+Pio0,0156,No,No
+P123,0123,No,Yes

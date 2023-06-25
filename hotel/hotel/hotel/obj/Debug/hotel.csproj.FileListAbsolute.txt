@@ -1,0 +1,15 @@
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\bin\Debug\hotel.exe.config
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\bin\Debug\hotel.exe
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\bin\Debug\hotel.pdb
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.csproj.AssemblyReference.cache
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.Form1.resources
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.Properties.Resources.resources
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.csproj.GenerateResource.cache
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.csproj.CoreCompileInputs.cache
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.exe
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.pdb
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.ClientChild.resources
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.OccupanciesChild.resources
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.RoomsChild.resources
+C:\Users\rache\OneDrive\Desktop\hotel\hotel\hotel\obj\Debug\hotel.CustomerChild.resources
